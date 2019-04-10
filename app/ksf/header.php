@@ -46,5 +46,7 @@
 					</nav>
 					<!-- /nav -->
 
+					<?php get_template_part('searchform'); ?>
+
 			</header>
 			<!-- /header -->
