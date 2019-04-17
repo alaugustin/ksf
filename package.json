@@ -1,0 +1,27 @@
+{
+  "name": "ksf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaugustin/ksf.git"
+  },
+  "author": "Al Augustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaugustin/ksf/issues"
+  },
+  "homepage": "https://github.com/alaugustin/ksf#readme",
+  "devDependencies": {
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  }
+}
